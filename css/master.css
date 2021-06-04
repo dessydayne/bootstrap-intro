@@ -1,0 +1,66 @@
+/*this is how to make a comment, you just type forward slash asterisks*/
+
+h1{
+  color: red;
+}
+
+li{
+  color: rgb(255, 97, 0);
+}
+/*
+p{
+  color: #03befc;
+}*/
+
+h4{
+  color: rgba(255, 97, 0, 1);
+}
+
+.firstDiv{
+  color: blue;
+}
+
+body{
+  font-family: Arial;
+}
+
+.secondDiv{
+  color: red;
+}
+
+#singledout{
+  color: green;
+  text-decoration: line-through;
+}
+
+td{
+  border:6px solid white;
+  height: 300px;
+  width: 150px;
+
+}
+
+h2{
+  text-align: center;
+}
+
+.art{
+  margin: auto;
+}
+
+#one{
+  background-color:#160C28;
+}
+
+#two{
+  background-color:#efcb68;
+}
+#three{
+  background-color:#e1efe6;
+}
+#four{
+  background-color:#aeb7b3;
+}
+#five{
+  background-color:#000411;
+}
